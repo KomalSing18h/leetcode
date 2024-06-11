@@ -10,3 +10,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/KomalSing18h/leetcode/tree/master/0344-reverse-string) |
+# Array
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/KomalSing18h/leetcode/tree/master/1217-relative-sort-array) |
+# Hash Table
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/KomalSing18h/leetcode/tree/master/1217-relative-sort-array) |
+# Sorting
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/KomalSing18h/leetcode/tree/master/1217-relative-sort-array) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/KomalSing18h/leetcode/tree/master/1217-relative-sort-array) |
