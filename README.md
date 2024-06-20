@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/KomalSing18h/leetcode/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/KomalSing18h/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
 | ------- |
@@ -22,7 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/KomalSing18h/leetcode/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/KomalSing18h/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Counting Sort
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/KomalSing18h/leetcode/tree/master/1217-relative-sort-array) |
+# Binary Search
+|  |
+| ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/KomalSing18h/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
