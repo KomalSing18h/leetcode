@@ -32,3 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/KomalSing18h/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/KomalSing18h/leetcode/tree/master/1916-find-center-of-star-graph) |
