@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/KomalSing18h/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/KomalSing18h/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KomalSing18h/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KomalSing18h/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/KomalSing18h/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
