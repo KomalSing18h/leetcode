@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalSing18h/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalSing18h/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/KomalSing18h/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/KomalSing18h/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/KomalSing18h/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -66,6 +67,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalSing18h/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalSing18h/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/KomalSing18h/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/KomalSing18h/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalSing18h/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
