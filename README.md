@@ -70,8 +70,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalSing18h/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/KomalSing18h/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/KomalSing18h/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/KomalSing18h/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalSing18h/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/KomalSing18h/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/KomalSing18h/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
