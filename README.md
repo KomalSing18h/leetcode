@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KomalSing18h/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/KomalSing18h/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,8 +82,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0072-edit-distance](https://github.com/KomalSing18h/leetcode/tree/master/0072-edit-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KomalSing18h/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/KomalSing18h/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/KomalSing18h/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/KomalSing18h/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
